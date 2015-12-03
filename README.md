@@ -6,7 +6,7 @@ Please note that the algorithm is written for single cell studies and thus only 
 
 #Using the Software
 **Load Images**<br/>
-![alt tag](https://github.com/oist/Independent-Cell-Tracker/blob/Images/Load.png)<br/>
+![alt tag](https://github.com/AniketRavan/TempReadme/blob/master/Load.png)<br/>
 The software gives best results for phase contrast images.<br/>
 
 **Manual Tracking**<br/>
