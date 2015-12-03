@@ -27,7 +27,7 @@ You can also scroll the image quality for efficiency. A lower image quality give
 **Automatic Tracking** <br/>
 On clicking the Automatic Tracking button the user is prompted to select the centroids of cells they wish to track. Please be careful to click near centroids of independent cells only.<br/>
 <img src="https://github.com/AniketRavan/TempReadme/blob/WorkingBranch/Automatic1.png" width="420" align="left">
-<img src="https://github.com/AniketRavan/TempReadme/blob/WorkingBranch/Automatic1.png" width="420" align="right">
+<img src="https://github.com/AniketRavan/TempReadme/blob/WorkingBranch/Automatic2.png" width="420" align="right">
 <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/><br/> <br/><br/><br/><br/> <br/> <br/>
 Centroids of cells being tracked are marked with a green cross ('x'). Cells at the border of the screen are ignored. 
 
