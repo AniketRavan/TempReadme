@@ -1,4 +1,4 @@
-# TempReadme
+**All MATLAB scripts and functions for this software are uploaded to a private repository owned by OIST**
 # Independent-Cell-Tracker for Directional Studies of Cell Migration
 #Synopsis
 This is a semi-supervised tracking algorithm written to track cells in phase contrast images using MATLAB's R2015a version. Images undergo binary classification based on pixel intensity and local standard deviation of pixel values. A Support Vector Machine classifier is used for this step. The classifier is automatically trained in every frame using information between successive frames. 
