@@ -6,28 +6,28 @@ Please note that the algorithm is written for single cell studies and thus only 
 
 #Using the Software
 **Load Images**<br/>
-![alt tag](https://github.com/AniketRavan/TempReadme/blob/master/Load.png)<br/>
+![alt tag](https://github.com/AniketRavan/TempReadme/blob/WorkingBranch/Load.png)<br/>
 The software gives best results for phase contrast images.<br/>
 
 **Manual Tracking**<br/>
 For studies of directional migration it is highly recommended to use the 'Automatic Tracking' feature since directions of displacement vectors obtained using Manual Tracking can be often unreliable.<br/>
-<img src="https://github.com/AniketRavan/TempReadme/blob/master/ManualTracking1.png" width="420" align="left"/>
-<img src="https://github.com/AniketRavan/TempReadme/blob/master/ManualTracking2.png" width="420" align="right"/>
+<img src="https://github.com/AniketRavan/TempReadme/blob/WorkingBranch/ManualTracking1.png" width="420" align="left"/>
+<img src="https://github.com/AniketRavan/TempReadme/blob/WorkingBranch/ManualTracking2.png" width="420" align="right"/>
 <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
 Also note that you can track only one cell at a time.
 <br/>
 
 **Preprocessing**<br/>
 Before using the Automatic Thresholding features the images have to be processed for better performance. Use the horizontal filter scrollbar to filter out the background. <br/>
-<img src="https://github.com/AniketRavan/TempReadme/blob/master/Filter1.png" width="420" align="left">
-<img src="https://github.com/AniketRavan/TempReadme/blob/master/Filter2.png" width="420" align="right">
+<img src="https://github.com/AniketRavan/TempReadme/blob/WorkingBranch/Filter1.png" width="420" align="left">
+<img src="https://github.com/AniketRavan/TempReadme/blob/WorkingBranch/Filter2.png" width="420" align="right">
 <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
 You can also scroll the image quality for efficiency. A lower image quality gives better speed, but also compromises the accuracy of segmentation.
 
 **Automatic Tracking** <br/>
 On clicking the Automatic Tracking button the user is prompted to select the centroids of cells they wish to track. Please be careful to click near centroids of independent cells only.<br/>
-<img src="https://github.com/AniketRavan/TempReadme/blob/master/Automatic1.png" width="420" align="left">
-<img src="https://github.com/AniketRavan/TempReadme/blob/master/Images/Automatic2.png" width="420" align="right">
+<img src="https://github.com/AniketRavan/TempReadme/blob/WorkingBranch/Automatic1.png" width="420" align="left">
+<img src="https://github.com/AniketRavan/TempReadme/blob/WorkingBranch/Automatic2.png" width="420" align="right">
 <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/><br/> <br/><br/><br/><br/> <br/> <br/>
 Centroids of cells being tracked are marked with a green cross ('x'). Cells at the border of the screen are ignored. 
 
